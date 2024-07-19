@@ -21,7 +21,7 @@ TargetOutputMedium=Fabrication
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Samsung C430W
+TargetPrinter=Samsung C410 Series (192.168.1.32)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -142,22 +142,22 @@ OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [PublishSettings]
-OutputFilePath2=C:\GitHub\effects\InfinityCrusher\Project Outputs for InfinityCrusher\Fabrication\
+OutputFilePath2=D:\GitHub\Niri\FerrariLoggerV2.0\Project Outputs for FerrariLogger\FerrariLoggerV2.0_Gerber\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for InfinityCrusher
-OutputPathMedia2=Fabrication
-OutputPathMediaValue2=Fabrication
-OutputPathOutputer2=[Output Type]
+OutputBasePath2=Project Outputs for FerrariLogger
+OutputPathMedia2=FerrariLoggerV2.0_Gerber
+OutputPathMediaValue2=FerrariLoggerV2.0_Gerber
+OutputPathOutputer2=
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
 OutputFileName2=
-OutputFileNameMulti2=
-UseOutputNameForMulti2=1
+OutputFileNameMulti2=FerrariLoggerV2.0
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=0
 OutputFilePath3=C:\ProgramData\Altium\Altium Designer {DCFDF81D-9996-436E-AA04-3AF85AAEC628}\VaultEditCache\3FD9C493-D7B8-4300-A926-76F7B0780272\Released\Project Outputs for BRD-0013-1\Fabrication\PCB Fabrication VariantName.PDF
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for InfinityCrusher
+OutputBasePath3=Project Outputs for FerrariLogger
 OutputPathMedia3=Fabrication
 OutputPathMediaValue3=Fabrication
 OutputPathOutputer3=[Output Type]
@@ -184,7 +184,7 @@ PDFACompliance3=Disabled
 PDFVersion3=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\GitHub\effects\InfinityCrusher\Project Outputs for InfinityCrusher\Fabrication\
+RelativeOutputPath2=D:\GitHub\Niri\FerrariLoggerV2.0\Project Outputs for FerrariLogger\FerrariLoggerV2.0_Gerber\
 OpenOutputs2=0
 AddToProject2=0
 TimestampFolder2=0
