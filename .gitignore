@@ -1,2 +1,9 @@
 **/History
 *.IntLib
+*.IntLib
+Connectors/Project Outputs for Connectors/Connectors.IntLib
+Diodes/Project Outputs for Diodes/Diodes.IntLib
+ElectroMechanical/Project Outputs for ElectroMechanical/ElectroMechanical.IntLib
+Passive/Project Outputs for Passive/Passive.IntLib
+Transistors/Project Outputs for Transistors/Transistors.IntLib
+Tubes/Project Outputs for Tubes/Tubes.IntLib
